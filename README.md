@@ -1,1 +1,1 @@
-[![EthanJamesLew's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanJamesLew)](https://github.com/anuraghazra/github-readme-stats)
+[![EthanJamesLew's GitHub stats](https://github-readme-stats-academic.vercel.app/api/academic?username=EthanJamesLew)](https://github.com/EthanJamesLew/github-readme-stats-academic)
