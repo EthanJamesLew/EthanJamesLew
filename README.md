@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ethan Lew.
 
-I'm a Cyber-physical Systems Research Engineer with a passion for building safe autonomous systems using formal methods and AI. Currently, I work at Galois, where we're innovating in the verification of high assurance cyber-physical systems operating in unstructured and uncertain environments. Oh, and by the way, Rust is my go-to language for its unbeatable combination of safety and speed!
+I'm a Cyber-physical Systems Research Engineer with a passion for building safe autonomous systems using formal methods and AI. Currently, I work at Galois, where we're innovating in the verification of high assurance cyber-physical systems operating in unstructured and uncertain environments.
 
 🔬 My Interests: Signals, Noise, and Trustworthy Systems
 
