@@ -14,6 +14,4 @@ I'm a Cyber-physical Systems Research Engineer with a passion for building safe 
 * Approaches and methodologies for verifying high assurance cyber-physical systems, particularly in unstructured and uncertain environments.
 * Exploring Rust as a safe and fast language, especially with an eye for verification.
 
-## Impact
-
 [![EthanJamesLew's GitHub stats](https://github-readme-stats-academic.vercel.app/api/academic?username=EthanJamesLew&hide_rank=true)](https://github.com/EthanJamesLew/github-readme-stats-academic)
